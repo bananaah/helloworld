@@ -11,6 +11,8 @@ import javax.persistence.*;
  *
  */
 
+//test branch................xD
+
 @Entity
 public class Rapport extends AbstractEntity {
 
